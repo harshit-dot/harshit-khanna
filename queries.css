@@ -1,0 +1,227 @@
+@media only screen and (max-width:2200px){
+    .load-more{
+        display: inline-block;
+    }
+}
+/* big tablet */
+@media only screen and (max-width:1200px){
+.row{
+       
+        width: 100%;
+        padding: 0 2%;}
+   
+    
+    .sign-in li{
+    display: inline-block;
+}
+.movies li{
+    display: inline-block;
+    
+}
+    .load-more{
+        display: inline-block;
+    }
+.movies{
+    float:right;
+    margin-top: -28px;
+}
+.sign-in{
+    padding-top: 30px;
+}
+
+   
+    html{
+        font-size: 16px;
+    }
+    .h1{
+        width:100%;
+    }
+    .list-item1{
+        padding:0;
+        margin: 0;
+    }  
+            
+    .har{
+        width:100%;
+        letter-spacing: 0;
+        word-spacing: 0px;
+        font-style: oblique;
+        font-size:15px;
+        padding-left: 3%;
+    
+    }
+    .box{
+        height: 100%;
+    }
+    .movies li{
+        padding-left: 1.8%
+    }
+    
+    
+   
+    
+}
+/*-----------------------------------------*/
+/* ------------- tablets--------------------*/
+/*---------------------------------*/
+@media only screen and (max-width:767px){
+    
+    html{
+        font-size:16px;
+        
+    }
+    .h1{
+        font-size:16px;
+        
+    }
+    .row{
+       
+        width: 100%;
+        padding: 0 2%;}
+    .heading, .heading1,.heading2{
+        font-size:18px;
+}
+    .load-more{
+        display: inline-block;
+    }
+    .marvel{
+        margin-top:10%;
+        padding: 1%;
+        font-size:25px;
+    }
+    .heading3{
+        font-size:20px;  
+    }
+        .row{
+       
+        width: 100%;
+        padding: 0 2%;}
+    .col{
+        width:48.4%;
+    }
+    .bx{width:48.4%;
+    
+    }
+    
+    .box:last-child{ padding-right: 0;
+    margin-right: 0;}
+
+    footer .col{
+        width:32.2%
+    }
+    
+    .bam{
+        margin-bottom: 180px;
+    }
+    .ran{
+        margin-top:  180px;
+    }
+    .copyright{
+        margin-bottom: 20px;
+        margin-top: 20px;
+        position: relative;
+        top:180px;
+    }
+   
+   
+}
+@media only screen and (max-width:448px){
+    .heading,.heading1,.heading2{
+        font-size: 12px;
+    }
+    .row{
+       
+        width: 100%;
+        padding: 0 2%;}
+
+    section .col{
+        width:50.5%;
+    }
+    .marvel{
+        margin-top: 100px;
+    }
+    footer .col{
+        width:32.2%
+    }
+    
+    .box{
+        margin-top: 150px;
+        position: relative;
+        left:50%;
+        right:50%;
+        transform: translate(-50%,-50%);
+        bottom: 20px;
+        
+    }
+    
+    .link{
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    .lar{
+        margin-top: 60px;
+    }
+    .learn-more{
+        width:53%;
+        padding: 0;
+        display:block;
+        position: relative;
+        left:33%;
+        
+    
+    
+    }
+    .bam{
+    
+        margin-bottom: 180px;
+    }
+    .row{
+        padding: 0;
+        margin: 0;
+    }
+    .ran{
+        margin-top:  180px;
+    }
+    .copyright{
+        margin-bottom: 20px;
+        margin-top: 20px;
+        position: relative;
+        top:180px;
+    }
+    .learn-more{
+        width:90%;
+        position: relative;
+        left:20%;
+        padding: .5% 0;
+        
+    }
+    
+    .copyright{
+        font-size:10px;
+    }
+    .merchandise{
+        font-size: 17px;
+       position: absolute;
+        left:10%;
+        right:20%;  
+    }
+    .new{
+        margin-top: 25px;
+    }
+    
+    .marvel{
+        font-size: 18px;
+    }
+    .row{
+       
+        width: 100%;
+        padding: 0 2%;}
+    
+    .heading3{
+        padding-top: 60px;
+    }
+    .load-more{
+        display: none;
+    }
+
+}
